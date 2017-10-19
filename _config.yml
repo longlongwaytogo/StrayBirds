@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: longlongwaytogo
+username:longlongwaytogo
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
